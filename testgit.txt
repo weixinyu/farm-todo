@@ -4,3 +4,6 @@ This is for a simple test of git
 3. this is 3
 4. this is 4
 5. this is 5
+6. this is 6 branch test
+7. this is 7 branch test
+8. this is 8
